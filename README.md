@@ -6,14 +6,14 @@ This project demonstrates real-world GUI development, modular architecture, and 
 
 ### Features
 
-###  Core Functionality
+### Core Functionality
 - Add new products  
 - Update existing products  
 - Delete products  
 - Search by name or category  
 - Auto-refreshing inventory table  
 
-###  UI & UX Enhancements
+### UI & UX Enhancements
 - Modern, organized Tkinter layout  
 - Editable table view using Treeview  
 - Double-click a row to autofill the form  
@@ -35,5 +35,6 @@ This project demonstrates real-world GUI development, modular architecture, and 
 - **Dataclasses** (Product model)
 - **CSV (DictReader/DictWriter)**
 - **OOP architecture**
+
 
 
