@@ -1,10 +1,10 @@
-# 📦 Inventory Management System  
+# Inventory Management System  
 A clean, user-friendly desktop application built with **Python** and **Tkinter** for managing products, stock levels, pricing, and categories.  
 This project demonstrates real-world GUI development, modular architecture, and persistent data storage using CSV files.
 
 
 
-### 🚀 Features
+### Features
 
 ###  Core Functionality
 - Add new products  
@@ -20,7 +20,7 @@ This project demonstrates real-world GUI development, modular architecture, and 
 - Scrollable inventory list  
 - Clean input validation with error messages  
 
-### ⭐ Smart Inventory Tools
+### Smart Inventory Tools
 - Automatic low-stock detection  
 - Persistent storage using CSV  
 - “Generate Report” button to quickly save inventory  
@@ -28,11 +28,12 @@ This project demonstrates real-world GUI development, modular architecture, and 
 
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **Tkinter** (GUI Framework)
 - **Dataclasses** (Product model)
 - **CSV (DictReader/DictWriter)**
 - **OOP architecture**
+
 
